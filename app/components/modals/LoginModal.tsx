@@ -107,7 +107,7 @@ const LoginModal = () => {
             gap-2'>
 
           <div>
-            First time using Airbnb?
+            First time using Travel World?
           </div>
           <div
             onClick={toogle}

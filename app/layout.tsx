@@ -12,8 +12,8 @@ import ToasterProvider from './providers/ToasterProvider'
 const font = Nunito({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Airbnb',
-  description: 'Airbnb Clone',
+  title: 'Travel World',
+  description: 'Travel World',
 }
 
 export default async function RootLayout({
